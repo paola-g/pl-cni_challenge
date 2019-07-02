@@ -32,7 +32,7 @@ For further information on the pre-requisites and Challange rules/requirements: 
 
 Synopsis
 --------
-
+ 
 This bare bones example demonstrates a python program which performs a rotation on a list of vectors. It will demonstrate how to pass in string inputs, read in and output to respective, mandatory directories, and how to incorporate python code and packages for the app to retrieve and for Docker to containerize.
 
 .. code::
